@@ -4,3 +4,4 @@ spec/tmp
 doc
 .ruby*
 pkg
+.DS_Store
