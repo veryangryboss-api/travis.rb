@@ -1,7 +1,8 @@
 language: ruby
 
-os:
-  - osx
+os: osx
+osx_image: xcode12.4
 
-rvm:
-  - 2.6
+rvm: 
+ - 2.6
+
