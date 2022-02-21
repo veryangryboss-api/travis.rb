@@ -6,3 +6,8 @@ osx_image: xcode12.4
 rvm: 
  - 2.6
 
+cache: bundler
+
+deploy:
+  provider: rubygems
+  - bundle install
