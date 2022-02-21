@@ -1,4 +1,4 @@
-# The Travis Client [![Build Status](https://github.com/veryangryboss-api/travis.rb.svg?branch=main)](https://app.travis-ci.com/github/veryangryboss-api/travis.rb)
+# The Travis Client [![Build Status](https://app.travis-ci.com/veryangryboss-api/travis.rb.svg?branch=main)](https://app.travis-ci.com/veryangryboss-api/travis.rb)
 
 ![The Travis Mascot](http://about.travis-ci.org/images/travis-mascot-200px.png)
 
